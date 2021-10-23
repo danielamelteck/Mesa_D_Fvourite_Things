@@ -1,0 +1,57 @@
+
+
+ #intro {
+    background-color: #f3d3b5;
+    height: 1040px;
+
+}
+
+.bio-panel{
+    flex-direction:row-reverse;
+    display: inline-flex;
+    text-align:center;
+    margin:10px;
+    width:300px
+}
+
+h2{
+    font-weight:bold;
+    font-size:16px
+}
+
+#title{
+    color:rgb(124, 104, 83);
+    font-size:50px;
+    font-family:"Emitha";
+    text-align: center;
+    padding-top:10px;
+    
+}
+
+#sub-title{
+    color:rgb(124, 104, 83);
+    font-size:15px;
+    font-family:"Arial";
+    padding-top:5px;
+    padding-left:5px;
+    line-height:1
+
+}
+
+#paragraph{
+    color:rgb(124, 104, 83);
+    font-size:15px;
+    font-family:"Arial";
+    padding-top:0px;
+    padding-left:5px;
+    line-height:1;
+    margin-bottom: 10px
+
+}
+
+.object{
+    margin-top: 10px;
+    border-radius:10mm;
+    filter: drop-shadow(5px 5px 5px rgb(0, 0, 0))
+    
+}
