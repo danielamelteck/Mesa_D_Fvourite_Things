@@ -1,0 +1,179 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video
+{
+    margin:10px;
+    padding:0;
+    border:0;
+    font-size:100%;
+    font:Arial;
+    vertical-align:text-top;
+   
+}
+    article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{
+        display:block
+    }
+    
+
+    
+    ol,ul{
+        list-style:none
+    }
+    
+    blockquote,q{
+        quotes:none
+    }
+    
+    blockquote:before,blockquote:after,q:before,q:after{
+        content:"";
+        content:none
+    }
+    
+    table{
+        border-collapse:collapse;
+        border-spacing:10px
+    }
+
+
+    
+    body{
+        color: #83664b;
+        font-size:16px;
+        font-family:"Arial",sans-serif;
+        height: 1050px;
+        background-image:url(../images/backround.jpg);
+        background-size: 80rem;
+        
+        
+    }
+    
+    .hidden{
+        display:none
+    }
+    
+    
+    
+    header{
+        background-color: #cc9f75fb;
+        height: 200px;
+        border-radius:10mm;
+    }
+    
+    header h1{
+        color:#fff;
+        font-size:25px;
+        font-family:"Arial";
+        padding-top:0px;
+        padding-left:5px;
+        line-height:0.5
+       
+    }
+
+    header p {
+        color: #fff;
+        font-size: 10px;
+        font-family: "Arial";
+        padding-top:0px;
+        padding-left:5px;
+        line-height:0.5
+
+    
+    }
+
+    header img {
+        padding-top: 0px;
+        width: 140px; 
+        height: 110px;
+        padding-left:5px
+    }
+
+    #intro {
+        background-color: #f3d3b5;
+        height: 1300px;
+        border-radius:10mm;
+   
+    }
+  
+    .bio-panel{
+        display:inline-block;
+        text-align:center;
+        margin:10px;
+        width:300px
+    }
+    
+    h2{
+        font-weight:bold;
+        font-size:16px
+    }
+
+    #title{
+        color:rgb(124, 104, 83);
+        font-size:50px;
+        font-family:"Emitha";
+        text-align: center;
+        padding-top:10px;
+        
+    }
+
+    #sub-title{
+        color:rgb(124, 104, 83);
+        font-size:15px;
+        text-align: center;
+        font-family:"Arial";
+        padding-top:5px;
+        padding-left:5px;
+        line-height:1
+
+    }
+
+    #paragraph{
+        color:rgb(124, 104, 83);
+        font-size:15px;
+        text-align: center;
+        font-family:"Arial";
+        padding-top:0px;
+        padding-left:5px;
+        line-height:1;
+        margin-bottom: 10px
+
+    }
+
+    .object{
+        margin-top: 30px;
+        border-radius:10mm;
+        filter: drop-shadow(5px 5px 5px rgb(0, 0, 0));
+        margin-left: 120px;
+        
+        
+    }
+
+    .button{
+   
+        margin-left: 20px;
+        position: relative;
+        margin-top: 150px;
+
+    }
+
+    .heroinfo{
+    text-align: center;
+    background-color: #fff;
+    height: 320px;
+    border-radius: 5mm;
+    opacity: 80%;
+
+    }
+
+    .heroinfo h1{
+        margin-bottom: 5px;
+        font-family:"Arial";
+    }
+
+    .heroinfo p{
+        margin-bottom: 5px;
+        font-family:"Arial";
+    }
+   
+
+
+    
+
+    
