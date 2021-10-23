@@ -1,0 +1,26 @@
+{
+        "Photography": {
+        "name":"Photography",
+        "focus":"Urban Photography",
+        "description":"I have loved photography my whole life and it has been a passion that has been growing over the years. I love urban photography, that one which captures the infrastructure of a city, establishments, and streets in general. I am a faithful believer that a photo tells a complete story.",
+        "biopic":"Photography.png"
+        },
+    
+        "Design": {
+        "name":"Design",
+        "focus":"Graphic Desing",
+        "description":"My father is a graphic designer, so it's something I carry in my blood. In addition to being one of my favorite things I could say that it is my life project. Although I love design in general (specifically interior and fashion design) my favorite is undoubtedly the graphic world. For as long as I can remember, I have been artistic and curious about illustration. When I was younger, I used to paint on canvases, then I got more interested in drawing realistic portraits based on pencil and charcoal but now I have moved to the digital stage but I could easily do all of them!",
+        "biopic":"Design.png"
+        },
+
+        "Makeup": {
+        "name":"Makeup",
+        "focus":"Photography Make Up",
+        "description":"Although a long time ago makeup was not at all of my interest, times change, right? Well, in my case I went from not using a drop of makeup to becoming fond of this subject completely. Currently in my free time I work as a makeup artist for small businesses campaigns. I like natural makeup, which highlights the features of men and women.",
+        "biopic":"Makeup.png"
+        }
+
+    }
+ 
+
+    
